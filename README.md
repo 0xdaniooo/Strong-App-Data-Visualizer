@@ -1,7 +1,7 @@
 # Strong App - Data Visualizer
 Data visualization tool for plotting workout data from Strong App's CSV files - Built with Tkinter and Plotly
 
-See it in action here: https://youtube/watch?v=hlJXnp-V-90
+See it in action here: https://www.youtube.com/watch?v=fvG2z0ZIqt0
 
 
 ## About
